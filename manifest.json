@@ -1,0 +1,26 @@
+{
+    "name": "Zoom Out Selection",
+    "version": "1.0",
+    "title": "Highstock Zoom Out Selection",
+    "demo": [
+    ],
+    "author": {
+        "name": "Roland Banguiran",
+        "url": "http://sg.linkedin.com/in/rolandbanguiran"
+    },
+    "licenses": [
+        {
+            "type": "GPL v2",
+            "url": "https://github.com/RolandBanguiran/highstock-zoom-out-selection/blob/master/LICENSE"
+        }
+    ],
+    "description": "Using this plugin lets the user zoom out X-Axis by dragging from right to left.",
+    "keywords": [
+     "xAxis",
+     "selection",
+     "zoom"
+    ],
+    "dependencies": {
+        "Highcharts": ">=3.0.0"
+    }
+}
