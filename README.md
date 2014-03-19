@@ -10,3 +10,5 @@ chart: {
   zoomType: 'x'
 }
 </pre>
+
+Demo: http://www.highcharts.com/plugin-registry/single/26/Zoom%20Out%20Selection
