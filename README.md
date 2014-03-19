@@ -12,3 +12,7 @@ chart: {
 </pre>
 
 Demo: http://www.highcharts.com/plugin-registry/single/26/Zoom%20Out%20Selection
+
+Donate
+---
+Bitcoin to <code>15dv1MW6LrArfzrzq46mPscjce7vLUfaBR</code>
