@@ -8,4 +8,4 @@ chart: {
 }
 ```
 # Demo
-http://www.highcharts.com/plugin-registry/single/26/Zoom%20Out%20Selection
+https://www.highcharts.com/products/plugin-registry/single/26/Zoom%20Out%20Selection
